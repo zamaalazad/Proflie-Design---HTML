@@ -1,0 +1,30 @@
+All the card
+
+Font Family - Arial, Sans-serif
+Background color- #A8BDC3
+Card background- #ffffff
+In Font Awesome
+Facebook Logo - fa-facebook
+Twitter Logo - fa-twitter
+Linked In Logo - fa-linkedin
+YouTube Logo - fa-youtube-play
+Instagram Logo - fa-instagram
+Google Plus Logo - fa-google-plus
+
+
+Emiley Anderson(Do With Bootstrap)
+
+Emiley Image  - 170,170
+Card Width - 600px
+Emiley Header Color - #C7A7A7
+Emiley Title - Bold, Size- 40
+Designation - Regular, size- 14
+Details - Regular, size- 12
+
+John Doe(Without Bootstrap)
+
+John Image - 170,170
+Card Width - 600px
+John header code - #3A3B3C
+John Title - Bold, Size - 54px
+Designation - Regular, size - 18px
